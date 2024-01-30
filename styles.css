@@ -1,0 +1,103 @@
+h1 {
+    color: #570b76;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    text-align: center;
+
+
+}
+
+div#dryfoods {
+    margin: 50px 50px;
+    border: 5px solid black;
+    background: rgb(149, 136, 161);
+    padding: 10px 10px;
+    width: 50%;
+}
+
+#produce {
+    margin: 20px 50px;
+    border: 3px solid black;
+    background: rgb(197, 212, 113);
+    padding: 10px 25px;
+    width: 20%;
+    display: inline-block;
+}
+
+#snacks {
+    margin: 20px 10px ;
+    border: 3px solid black;
+    background: rgb(197, 212, 113);
+    padding: 10px 25px; 
+    width: 20%;
+    display: inline-block;
+    
+}
+#dryfoodpic {
+    
+    border: 3px solid black;
+    display: inline-block;
+
+
+    
+}
+
+#refrigerator {
+    margin: 100px 50px;
+    border: 5px solid black;
+    background: rgb(149, 136, 161);
+    padding: 10px 10px;
+    width: 50%;
+
+}
+
+#dairy{
+    margin: 20px 30px ;
+    border: 3px solid black;
+    background: rgb(197, 212, 113);
+    padding: 10px 25px; 
+    width: 20%;
+    display: inline-block;
+    
+}
+
+#meat {
+    margin: 20px 50px; 
+    border: 3px solid black;
+    background: rgb(197, 212, 113);
+    padding: 10px 25px; 
+    width: 20%;
+    height: 10%;
+    display: inline-block;
+
+}
+#refrigeratorpic {
+    
+    border: 3px solid black;
+    display: inline-block;
+}
+
+
+
+
+#booze {
+    margin: 100px 50px;
+    border: 5px solid black;
+    background: rgb(149, 136, 161);
+    padding: 10px 10px;
+    width: 50%;
+}
+#liquor{
+    margin: 20px 30px ;
+    border: 3px solid black;
+    background: rgb(197, 212, 113);
+    padding: 10px 25px; 
+    width: 20%;
+    display: inline-block;
+    
+}
+#liquorcabinet{
+    
+    border: 3px solid black;
+    display: inline-block;
+}
